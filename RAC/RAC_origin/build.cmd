@@ -1,0 +1,1 @@
+g++ -std=c++17 -pthread -O3 *.cpp -o main.exe

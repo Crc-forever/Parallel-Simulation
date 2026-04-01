@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MF0 version="1.1" packageUris="http://schema.mathworks.com/mf0/slsa_mm_param_rtp/R2023a">
+  <slsa.mm.param.rtp.ModelMetadata type="slsa.mm.param.rtp.ModelMetadata" uuid="4d96e2b0-a351-4372-9bde-d35167990dd8">
+    <modelName>Fridge_Correct</modelName>
+  </slsa.mm.param.rtp.ModelMetadata>
+</MF0>

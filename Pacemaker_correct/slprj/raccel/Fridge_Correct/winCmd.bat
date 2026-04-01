@@ -1,0 +1,2 @@
+chcp 65001
+cmd /D /c start "RapidAccelerator" /B "D:\Benchmark\Pacemaker_correct\slprj\raccel\Fridge_Correct\Fridge_Correct.exe" --config "C:\Users\lcrsb\AppData\Local\Temp\raccel_inputp13cf75cb_8415_411e_a3d7_c0d0d3bb492d.cfg" -server_info_file "C:\Users\lcrsb\AppData\Local\Temp\tpp13cf75cb_8415_411e_a3d7_c0d0d3bb492d.info" -tgtconn_server_info_file "C:\Users\lcrsb\AppData\Local\Temp\tgtconnp13cf75cb_8415_411e_a3d7_c0d0d3bb492d.info" -tgtconn_port 0 -port 0 -w >"D:\Benchmark\Pacemaker_correct\slprj\raccel\Fridge_Correct\cmdLog.txt"
