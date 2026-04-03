@@ -1,5 +1,5 @@
 @echo off
-SimAcc2.exe 100000000 1000000 10 12333 3 3 20 "../test_data.bin"
+SimAcc2.exe 100000000 1000000 10 12333 3 3 150 "../test_data.bin"
 REM         <Total Step>
 REM                   <Slice Step>
 REM                            <OutBuffer Count>

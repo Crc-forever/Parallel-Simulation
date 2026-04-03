@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MF0 version="1.1" packageUris="http://schema.mathworks.com/mf0/slsa_mm_param_graph/R2021b">
+  <slsa.mm.param.graph.VariableRegistry type="slsa.mm.param.graph.VariableRegistry" uuid="19dc2744-9421-4e8a-9ae1-9043217dad75">
+    <name>CPUTask_Sim</name>
+    <contextManager type="slsa.mm.param.graph.ContextManager" uuid="69e14a7e-75f8-45d3-8aa4-929547ea436f"/>
+  </slsa.mm.param.graph.VariableRegistry>
+</MF0>
